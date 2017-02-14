@@ -19,6 +19,8 @@ NCCの春合宿でやってたやーつ 2016/03/31
 ##### その4:棒グラフのトップの部分に文字おいてる感じ？
 ##### その5:文字の大きさを値次第にして位置は均等に並べてる
 (文字は簡単に出来るけどなんとなく面白くなるから一回やってみたかった)  
+  
+<img src="https://github.com/wmrn/bubble_visual_various/blob/master/data/cap.gif">  
 
 ## 最後に
 p5jsがProcessingとJSのいいとこどりと言われたけれども…  
